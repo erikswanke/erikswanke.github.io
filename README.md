@@ -3,4 +3,4 @@ website
 
 this is my first real coding thing
 
-I like :exercise:
+I like :pizza:
